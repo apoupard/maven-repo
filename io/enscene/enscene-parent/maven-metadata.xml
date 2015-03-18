@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.enscene</groupId>
+  <artifactId>enscene-parent</artifactId>
+  <versioning>
+    <versions>
+      <version>1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150318064721</lastUpdated>
+  </versioning>
+</metadata>
