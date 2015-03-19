@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>io.enscene.testing.arquillian</groupId>
+  <artifactId>enscene-testing-arquillian-jetty-9</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150319040132</lastUpdated>
+  </versioning>
+</metadata>
