@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.jboss.arquillian.container</groupId>
+  <artifactId>arquillian-jetty-embedded-6.1</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0.0.Final-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20150320042541</lastUpdated>
+  </versioning>
+</metadata>
